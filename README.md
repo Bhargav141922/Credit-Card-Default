@@ -1,0 +1,2 @@
+# Credit-Card-Default
+The objective of the project is to whether a customer will become a defaulter using the previous months’ data. Skills like Exploratory Data Analysis, Data Cleaning, Data Visualization, Feature Engineering and Modelling have been utilized. Several Resampling techniques have been used to encounter the problem of class imbalance. Random Forest and AdaBoost were declared as the best models with the combination of SMOTE.
